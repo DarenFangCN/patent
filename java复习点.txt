@@ -1,0 +1,60 @@
+java
+HashMap，原理，扩容
+LinkedList 原理，扩容
+Arraylist 原理，扩容
+== ，equals区别
+线程池工作原理，几个重要参数
+Object里面哪些常用方法
+锁问题
+
+
+jvm问题
+1. 类加载机制/类加载过程
+2. 双亲委派机制/以及他的作用
+3. JVM内存区域(堆、栈等其他)
+4. 堆内存划分
+5. 新生代、老年代垃圾回收机制以及原理
+6. 常用的垃圾回收器(ParNew、CMS、G1)
+7. 触发垃圾回收的时机和条件
+8. JVM调优参数模板
+9. JVM分析命令(jstat、jmap、jstack等)
+10. JVM分析工具(MAT等)
+
+
+spring问题
+https://blog.csdn.net/a745233700/article/details/80959716
+springMVC工作原理（简历上有的话）
+springBoot自动装配工作原理
+
+
+
+
+mysql问题
+1. Mysql架构设计(SQL接⼝、查询解析器、查询优化器、存储引擎、执⾏器)
+2. Mysql日志相关(undo log、redo log、binlog)
+3. Innodb存储引擎
+4. Mysql数据页/数据行/表空间/数据区
+5. Mysql事务隔离级别/MVCC机制原理
+6. 索引原理/索引规则/索引优化/聚簇索引
+7. Explain执⾏计划分析，sql优化原则
+
+
+
+mq问题
+1. MQ的应用，你用过哪种mq
+2. MQ保证消息队列的高可用
+3. MQ保证消息不被重复消费
+4. MQ如何保证消息的顺序性
+5. MQ如何处理消息丢失的问题
+6. MQ消息持续积压怎么处理
+
+redis缓存
+1. Redis线程模型（工作原理）
+2. Redis数据类型以及应用的场景
+3. Redis过期策略
+4. Redis持久化RDB/AOF
+5. Redis集群模式架构思想/gossip通信协议/hash slot算法/部署经验
+6. Redis高可用两种集群方式
+7. 并发场景下的缓存一致性问题
+8. 缓存和db数据读写同步问题
+9. 热点数据并发
